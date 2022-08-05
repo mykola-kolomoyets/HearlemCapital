@@ -13,6 +13,7 @@
 - React-Chart.js
 - Axios
 - style-it
+- react-number-format
 - Unit Tests (Jest/Enzyme)
 
 ### Period of developing
